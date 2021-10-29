@@ -1,0 +1,26 @@
+.love {
+  font-family: "Lobster", cursive;
+  color: red;
+  text-align: center;
+  margin: auto 0;
+  font-size: 40px;
+}
+
+.love_love {
+  font-family: "Lobster", cursive;
+  color: purple;
+  text-align: center;
+  margin: 10px 0;
+  font-size: 20px;
+}
+
+a {
+  font-family: "Oswald", sans-serif;
+  text-decoration: none;
+  color: orangered;
+  font-size: 25px;
+}
+
+a:hover {
+  color: purple;
+}
